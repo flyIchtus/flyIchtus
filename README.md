@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @flyIchtus
-- 👀 I’m interested in Generative Neural networks for Weather Forecast
-- 🌱 I’m currently learning how to use GitHub ^^
+- 👀 I’m interested in Generative Neural networks for Weather Forecasting
 
 <!---
 flyIchtus/flyIchtus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
